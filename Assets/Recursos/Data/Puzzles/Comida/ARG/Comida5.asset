@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffdce044d32f46e4195e739482b79e5e, type: 3}
+  m_Name: Comida5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - T
+    - V
+    - I
+    - B
+    - S
+    - U
+    - D
+    - O
+    - F
+  - Size: 9
+    Row:
+    - E
+    - A
+    - K
+    - U
+    - O
+    - Q
+    - M
+    - T
+    - B
+  - Size: 9
+    Row:
+    - M
+    - C
+    - Z
+    - Q
+    - Q
+    - A
+    - N
+    - I
+    - I
+  - Size: 9
+    Row:
+    - C
+    - H
+    - G
+    - U
+    - T
+    - Z
+    - A
+    - L
+    - T
+  - Size: 9
+    Row:
+    - G
+    - U
+    - P
+    - E
+    - E
+    - H
+    - C
+    - E
+    - L
+  - Size: 9
+    Row:
+    - X
+    - R
+    - F
+    - L
+    - C
+    - W
+    - C
+    - T
+    - I
+  - Size: 9
+    Row:
+    - V
+    - A
+    - M
+    - O
+    - Y
+    - D
+    - C
+    - S
+    - A
+  - Size: 9
+    Row:
+    - P
+    - O
+    - R
+    - R
+    - O
+    - N
+    - M
+    - A
+    - J
+  - Size: 9
+    Row:
+    - S
+    - I
+    - B
+    - Z
+    - S
+    - Z
+    - V
+    - P
+    - J
+  SearchWords:
+  - Word: LECHE
+  - Word: ACHURA
+  - Word: PASTELITO
+  - Word: PORRON
+  - Word: "BU\xD1UELO"
+  - Word: MATE

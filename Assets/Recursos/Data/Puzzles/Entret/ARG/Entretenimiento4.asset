@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffdce044d32f46e4195e739482b79e5e, type: 3}
+  m_Name: Entretenimiento4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 70
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - B
+    - C
+    - Q
+    - T
+    - V
+    - K
+    - Z
+    - T
+    - H
+  - Size: 9
+    Row:
+    - U
+    - H
+    - H
+    - Q
+    - E
+    - N
+    - F
+    - U
+    - T
+  - Size: 9
+    Row:
+    - F
+    - A
+    - B
+    - D
+    - I
+    - F
+    - I
+    - T
+    - O
+  - Size: 9
+    Row:
+    - P
+    - R
+    - T
+    - O
+    - M
+    - L
+    - N
+    - E
+    - P
+  - Size: 9
+    Row:
+    - U
+    - L
+    - F
+    - Y
+    - L
+    - F
+    - D
+    - D
+    - A
+  - Size: 9
+    Row:
+    - M
+    - Y
+    - F
+    - E
+    - W
+    - R
+    - I
+    - I
+    - W
+  - Size: 9
+    Row:
+    - N
+    - D
+    - N
+    - H
+    - G
+    - C
+    - O
+    - V
+    - I
+  - Size: 9
+    Row:
+    - I
+    - I
+    - I
+    - G
+    - H
+    - G
+    - K
+    - I
+    - Q
+  - Size: 9
+    Row:
+    - T
+    - S
+    - U
+    - S
+    - A
+    - N
+    - A
+    - S
+    - K
+  SearchWords:
+  - Word: TOPA
+  - Word: INDIO
+  - Word: FITO
+  - Word: CHARLY
+  - Word: SUSANA
+  - Word: TINELLI

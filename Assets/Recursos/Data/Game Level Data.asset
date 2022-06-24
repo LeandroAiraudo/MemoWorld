@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3768d378d9dd6094aaa43161241864ac, type: 3}
+  m_Name: Game Level Data
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: DeporteArg
+    boardData:
+    - {fileID: 11400000, guid: c38a96b8c578dcc49b2992f835519067, type: 2}
+    - {fileID: 11400000, guid: 8f80eb5d0cedb2e4dbc95549c60713af, type: 2}
+    - {fileID: 11400000, guid: 0c7fe6cb284676f489dbce1afe203e71, type: 2}
+    - {fileID: 11400000, guid: 84b9b9373dfbecb45b1749f85750e755, type: 2}
+    - {fileID: 11400000, guid: 8396d03c1ccb4774c8464f6f16ad1461, type: 2}
+  - categoryName: ComidaArg
+    boardData:
+    - {fileID: 11400000, guid: 1decef3d5499d3d41b6e79c13bd34891, type: 2}
+    - {fileID: 11400000, guid: e08fdbc2400063249915cd3a61d299f5, type: 2}
+    - {fileID: 11400000, guid: 1e47a33e008b58e4e9ecb94d2392c22e, type: 2}
+    - {fileID: 11400000, guid: c213adec3efdf774ba8bc52fc59e88ec, type: 2}
+    - {fileID: 11400000, guid: 0f24965313af37e459acf42b027632de, type: 2}
+  - categoryName: HistoriaArg
+    boardData:
+    - {fileID: 11400000, guid: b2f54c4824eace540aa678dce1d10521, type: 2}
+    - {fileID: 11400000, guid: d453fafdbd30ac34b93e89a7189a0a43, type: 2}
+    - {fileID: 11400000, guid: e5e68010041771c40a27d36ad72b763f, type: 2}
+    - {fileID: 11400000, guid: 84c2313ac14371a4782fc8b5ff4ee58a, type: 2}
+    - {fileID: 11400000, guid: 447fd083de93fd54296695a3d22e4a2e, type: 2}
+  - categoryName: EntretenimientoArg
+    boardData:
+    - {fileID: 11400000, guid: 844cf0cd1ac67fc43a25f7cde599bb64, type: 2}
+    - {fileID: 11400000, guid: 89235549fcdeb48428d84f9467e07cce, type: 2}
+    - {fileID: 11400000, guid: 696c52947ca856e4c8d9505af30100db, type: 2}
+    - {fileID: 11400000, guid: 0aa9c49767c57ee4db237fbcab2cf5a4, type: 2}
+    - {fileID: 11400000, guid: e55495703410f5a45bb6fe15de21de69, type: 2}

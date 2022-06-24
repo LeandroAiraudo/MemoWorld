@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffdce044d32f46e4195e739482b79e5e, type: 3}
+  m_Name: Comida4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - P
+    - N
+    - D
+    - T
+    - S
+    - G
+    - S
+    - Z
+    - O
+  - Size: 9
+    Row:
+    - R
+    - Z
+    - I
+    - H
+    - B
+    - D
+    - X
+    - G
+    - V
+  - Size: 9
+    Row:
+    - E
+    - S
+    - F
+    - H
+    - U
+    - W
+    - Y
+    - L
+    - G
+  - Size: 9
+    Row:
+    - T
+    - W
+    - M
+    - P
+    - C
+    - S
+    - R
+    - N
+    - L
+  - Size: 9
+    Row:
+    - Z
+    - K
+    - O
+    - X
+    - W
+    - A
+    - S
+    - D
+    - M
+  - Size: 9
+    Row:
+    - E
+    - F
+    - K
+    - P
+    - X
+    - Q
+    - Z
+    - O
+    - Q
+  - Size: 9
+    Row:
+    - L
+    - B
+    - F
+    - H
+    - V
+    - N
+    - H
+    - O
+    - T
+  - Size: 9
+    Row:
+    - X
+    - M
+    - A
+    - Y
+    - C
+    - F
+    - F
+    - F
+    - O
+  - Size: 9
+    Row:
+    - P
+    - D
+    - P
+    - V
+    - D
+    - I
+    - X
+    - U
+    - D
+  SearchWords:
+  - Word: PRETZEL

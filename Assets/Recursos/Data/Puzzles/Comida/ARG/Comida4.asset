@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffdce044d32f46e4195e739482b79e5e, type: 3}
+  m_Name: Comida4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 70
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - M
+    - D
+    - J
+    - E
+    - G
+    - U
+    - I
+    - S
+    - O
+  - Size: 9
+    Row:
+    - M
+    - A
+    - F
+    - U
+    - W
+    - P
+    - N
+    - C
+    - J
+  - Size: 9
+    Row:
+    - B
+    - F
+    - N
+    - N
+    - C
+    - J
+    - N
+    - H
+    - X
+  - Size: 9
+    Row:
+    - K
+    - E
+    - W
+    - T
+    - B
+    - D
+    - E
+    - U
+    - H
+  - Size: 9
+    Row:
+    - Q
+    - R
+    - M
+    - B
+    - E
+    - G
+    - O
+    - R
+    - A
+  - Size: 9
+    Row:
+    - P
+    - N
+    - Y
+    - Y
+    - Y
+    - C
+    - S
+    - R
+    - G
+  - Size: 9
+    Row:
+    - B
+    - E
+    - G
+    - K
+    - L
+    - I
+    - O
+    - O
+    - J
+  - Size: 9
+    Row:
+    - X
+    - T
+    - K
+    - C
+    - D
+    - Z
+    - J
+    - L
+    - S
+  - Size: 9
+    Row:
+    - S
+    - E
+    - M
+    - P
+    - A
+    - N
+    - A
+    - D
+    - A
+  SearchWords:
+  - Word: MANTECOL
+  - Word: EMPANADA
+  - Word: FERNET
+  - Word: SOJA
+  - Word: CHURRO
+  - Word: GUISO

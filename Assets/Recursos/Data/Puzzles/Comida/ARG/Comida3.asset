@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffdce044d32f46e4195e739482b79e5e, type: 3}
+  m_Name: Comida3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 70
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - A
+    - I
+    - Q
+    - K
+    - T
+    - P
+    - C
+    - X
+    - I
+  - Size: 9
+    Row:
+    - L
+    - Z
+    - R
+    - M
+    - K
+    - W
+    - X
+    - K
+    - D
+  - Size: 9
+    Row:
+    - F
+    - M
+    - M
+    - I
+    - J
+    - O
+    - T
+    - O
+    - L
+  - Size: 9
+    Row:
+    - A
+    - D
+    - V
+    - L
+    - T
+    - V
+    - R
+    - W
+    - O
+  - Size: 9
+    Row:
+    - J
+    - S
+    - B
+    - A
+    - F
+    - P
+    - I
+    - D
+    - C
+  - Size: 9
+    Row:
+    - O
+    - G
+    - V
+    - N
+    - B
+    - U
+    - G
+    - N
+    - R
+  - Size: 9
+    Row:
+    - R
+    - J
+    - Q
+    - E
+    - G
+    - F
+    - O
+    - H
+    - O
+  - Size: 9
+    Row:
+    - P
+    - Y
+    - B
+    - S
+    - B
+    - O
+    - G
+    - A
+    - I
+  - Size: 9
+    Row:
+    - Z
+    - A
+    - R
+    - A
+    - D
+    - I
+    - Q
+    - R
+    - Y
+  SearchWords:
+  - Word: ALFAJOR
+  - Word: MILANESA
+  - Word: VINO
+  - Word: BOGA
+  - Word: TRIGO
+  - Word: LOCRO
